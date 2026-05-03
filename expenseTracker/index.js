@@ -27,6 +27,7 @@ function filterCategory(category) {
     console.log("Amount: " + expense.amount);
   });
 }
+
 addExpense(100, "Food");
 addExpense(200, "Clothes");
 addExpense(100, "Furniture");
